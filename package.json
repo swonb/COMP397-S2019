@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/swonb/COMP397-S2019/issues"
   },
-  "homepage": "https://github.com/swonb/COMP397-S2019#readme"
+  "homepage": "https://github.com/swonb/COMP397-S2019#readme",
+  "dependencies": {
+    "typescript": "^3.5.2"
+  }
 }
