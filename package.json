@@ -18,5 +18,11 @@
   "homepage": "https://github.com/swonb/COMP397-S2019#readme",
   "dependencies": {
     "typescript": "^3.5.2"
+  },
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0",
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^1.0.0"
   }
 }
